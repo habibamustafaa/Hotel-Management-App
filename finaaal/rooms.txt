@@ -1,0 +1,7 @@
+106,single,false,50.0
+101,single,false,80.0
+90,do,false,1000.0
+5,p,false,10.0
+50,single,false,90.0
+10,single,true,60.0
+68,double,true,99.0

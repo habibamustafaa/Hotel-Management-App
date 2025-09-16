@@ -1,0 +1,10 @@
+======== Invoice ========
+Customer: 2 (ID: 5)
+Room: 90 (Standard) - EGP100.00/night
+Service: efsd - EGP30.00/day
+Days: 2
+------------------------
+Subtotal: EGP260.00
+Tax (15%): EGP39.00
+Total: EGP299.00
+========================
